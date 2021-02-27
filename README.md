@@ -1,1 +1,1 @@
-# Javscript-Complete-Guide
+# JavaScript-Complete-Guide
